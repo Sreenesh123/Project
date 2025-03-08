@@ -136,6 +136,7 @@ const styles = {
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
+    zIndex:10,
   },
   chartImage: {
     maxWidth: "100%",
