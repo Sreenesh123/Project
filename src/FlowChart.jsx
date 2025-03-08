@@ -100,6 +100,7 @@ const styles = {
     width: "100%",
     maxWidth: "900px",
     margin: "0 auto",
+    zIndex:10,
   },
   chartContainer: {
     backgroundColor: "rgba(30, 30, 30, 0.8)",
